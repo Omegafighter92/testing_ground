@@ -1,0 +1,4 @@
+process.stdout.write
+//console.log without line break
+array.reduce((x,y) => x+y);
+//sum
